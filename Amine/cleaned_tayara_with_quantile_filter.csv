@@ -108,14 +108,12 @@ Ariana,Ariana,villa,À Vendre,220.0,1.0,4.0,660000.0
 Nabeul,Nabeul,villa,À Vendre,320.0,4.0,4.0,990000.0
 Nabeul,Nabeul,villa,À Vendre,620.0,4.0,4.0,720000.0
 Nabeul,Nabeul,Maison,À Vendre,150.0,1.0,2.0,130000.0
-Sousse,Sousse,villa,À Vendre,0.0,2.0,4.0,712092.6213115032
 Ben Arous,Ben_Arous,villa,À Vendre,1014.0,4.0,6.0,682709.7532290902
 Ariana,Ariana,villa,À Vendre,300.0,2.0,4.0,980000.0
 Ben Arous,Ben_Arous,villa,À Vendre,524.0,2.0,3.0,650000.0
 Ben Arous,Ben_Arous,Maison,,189.0,2.0,2.0,98000.0
 Ben Arous,Ben_Arous,Maison,À Vendre,120.0,2.0,5.0,312182.5156045893
 Tunis,Tunis,Maison,À Vendre,250.0,4.0,3.0,720000.0
-Tunis,Tunis,Maison,À Vendre,60.0,4.0,5.0,270000.0
 Tunis,Tunis,Maison,À Vendre,260.0,3.0,5.0,320000.0
 Sfax,Sfax,villa,À Vendre,700.0,3.0,4.0,600000.0
 Nabeul,Nabeul,villa,À Vendre,440.0,2.0,4.0,845000.0
@@ -210,7 +208,6 @@ Tunis,Tunis,villa,,402.0,2.0,4.0,674389.0380067341
 Tunis,Tunis,Maison,À Vendre,143.0,1.0,3.0,290000.0
 Ben Arous,Ben_Arous,villa,À Vendre,125.0,2.0,6.0,250000.0
 Tunis,Tunis,Maison,À Vendre,100.0,3.0,6.0,450000.0
-Sfax,Sfax,Appartement,À Vendre,22.5,1.0,4.0,230000.0
 Sfax,Sfax,Maison,À Vendre,512.0,1.0,3.0,450000.0
 Tunis,Tunis,villa,À Vendre,500.0,4.0,3.0,636471.615028803
 Tunis,Tunis,villa,À Vendre,590.0,4.0,5.0,712216.5807974901
@@ -240,7 +237,6 @@ Tunis,Tunis,villa,À Vendre,411.0,5.0,8.0,1050000.0
 Ben Arous,Ben_Arous,villa,À Vendre,440.0,2.0,4.0,550000.0
 Tunis,Tunis,villa,À Vendre,550.0,2.0,8.0,970000.0
 Ariana,Ariana,villa,,402.0,2.0,4.0,820000.0
-Ben Arous,Ben_Arous,villa,À Vendre,0.0,2.0,4.0,606945.9152101314
 Bizerte,Bizerte,Maison,À Vendre,103.0,2.0,4.0,240945.16124312265
 Bizerte,Bizerte,villa,À Vendre,206.0,2.0,3.0,470000.0
 Tunis,Tunis,villa,À Vendre,654.0,4.0,4.0,674353.0038612653
@@ -326,8 +322,6 @@ Sfax,Sfax,villa,À Vendre,1276.0,2.0,4.0,850000.0
 Sfax,Sfax,villa,À Vendre,870.0,1.0,3.0,564783.4089460678
 Sfax,Sfax,villa,À Vendre,621.6,2.0,3.0,780000.0
 Sfax,Sfax,villa,À Vendre,800.0,2.0,4.0,725000.0
-Tunis,Tunis,Maison,À Vendre,1.0,2.0,3.0,303845.4573697605
-Sfax,Sfax,Maison,À Vendre,60.6,1.0,2.0,194206.45960073016
 Bizerte,Bizerte,villa,À Vendre,215.0,2.0,5.0,611465.1288616899
 Ariana,Ariana,villa,À Vendre,150.0,2.0,8.0,178000.0
 Tunis,Tunis,Maison,À Vendre,200.0,1.0,3.0,370000.0
@@ -337,12 +331,9 @@ Nabeul,Nabeul,villa,À Vendre,400.0,3.0,7.0,750000.0
 Ariana,Ariana,villa,À Vendre,435.0,1.0,3.0,240000.0
 Ariana,Ariana,villa,À Vendre,700.0,3.0,4.0,696710.1017042182
 Ariana,Ariana,villa,À Vendre,300.0,3.0,5.0,734546.2254425727
-Tunis,Tunis,Maison,À Vendre,60.0,1.0,1.0,228140.9778089696
 Ben Arous,Ben_Arous,Maison,À Vendre,180.0,2.0,3.0,280000.0
 Sfax,Sfax,villa,À Vendre,400.0,3.0,6.0,678294.8014578708
-Bizerte,Bizerte,Maison,À Vendre,60.0,1.0,4.0,200000.0
 Sfax,Sfax,villa,À Vendre,650.0,2.0,5.0,470000.0
-Ariana,Ariana,villa,À Vendre,0.0,2.0,4.0,696681.2195639241
 Tunis,Tunis,villa,À Vendre,456.0,4.0,7.0,787943.2444342636
 Ariana,Ariana,villa,À Vendre,672.0,3.0,5.0,940000.0
 Ariana,Ariana,villa,À Vendre,700.0,4.0,4.0,696681.7896822824
@@ -406,7 +397,6 @@ Ben Arous,Ben_Arous,villa,À Vendre,168.0,1.0,4.0,230000.0
 Sfax,Sfax,Appartement,À Vendre,220.0,1.0,4.0,230000.0
 Ben Arous,Ben_Arous,Appartement,À Vendre,117.0,1.0,3.0,150000.0
 Ariana,Ariana,villa,À Vendre,640.0,4.0,3.0,658808.081208748
-Tunis,Tunis,villa,À Vendre,0.0,1.0,1.0,485040.47365450265
 Tunis,Tunis,villa,À Vendre,334.0,5.0,7.0,787904.9642869104
 Nabeul,Nabeul,Maison,À Vendre,120.0,1.0,2.0,346938.25734289887
 Ariana,Ariana,villa,À Vendre,636.0,2.0,4.0,320000.0
@@ -421,11 +411,9 @@ Nabeul,Nabeul,villa,À Vendre,217.0,2.0,5.0,650000.0
 Sfax,Sfax,villa,À Vendre,140.0,1.0,4.0,602592.5697222282
 Tunis,Tunis,villa,À Vendre,370.0,3.0,3.0,1250000.0
 Nabeul,Nabeul,villa,À Vendre,536.0,3.0,3.0,850000.0
-Nabeul,Nabeul,Maison,À Vendre,1.0,1.0,3.0,220000.0
 Sfax,Sfax,villa,À Vendre,870.0,1.0,2.0,420000.0
 Monastir,Monastir,villa,À Vendre,200.0,2.0,5.0,600000.0
 Ariana,Ariana,villa,À Vendre,238.0,3.0,4.0,370000.0
-Sfax,Sfax,Maison,À Vendre,1.0,1.0,3.0,70000.0
 Sousse,Sousse,Maison,À Vendre,125.0,2.0,2.0,160000.0
 Sousse,Sousse,villa,À Vendre,500.0,1.0,3.0,460000.0
 Le Kef,Le_Kef,villa,À Vendre,230.0,1.0,2.0,200000.0
@@ -451,7 +439,6 @@ Bizerte,Bizerte,villa,À Vendre,430.0,1.0,3.0,600000.0
 Sfax,Sfax,villa,À Vendre,1133.0,1.0,4.0,520000.0
 Tunis,Tunis,villa,À Vendre,479.0,3.0,6.0,900000.0
 Sousse,Sousse,Maison,À Vendre,500.0,3.0,6.0,1200000.0
-Ben Arous,Ben_Arous,Maison,À Vendre,0.0,1.0,3.0,236463.4106794568
 Ben Arous,Ben_Arous,Maison,À Vendre,260.0,1.0,5.0,312222.26645897125
 Tunis,Tunis,Maison,À Vendre,90.0,1.0,2.0,266012.23510412255
 La Manouba,La_Manouba,villa,À Vendre,400.0,2.0,7.0,630000.0
@@ -461,7 +448,6 @@ Bizerte,Bizerte,Maison,À Vendre,504.0,1.0,3.0,109999.0
 Sfax,Sfax,villa,À Vendre,350.0,1.0,3.0,564740.9218541256
 Kairouan,Kairouan,Maison,À Vendre,340.0,1.0,3.0,410000.0
 Sousse,Sousse,villa,À Vendre,465.0,2.0,4.0,1250000.0
-Sousse,Sousse,Maison,À Vendre,1.0,2.0,2.0,303713.08034806704
 Nabeul,Nabeul,villa,À Vendre,450.0,3.0,4.0,400000.0
 Zaghouan,Zaghouan,villa,À Vendre,610.0,4.0,5.0,790000.0
 Tunis,Tunis,villa,À Vendre,749.0,3.0,6.0,750126.6901816183
@@ -476,7 +462,6 @@ Bizerte,Bizerte,villa,À Vendre,150.0,1.0,4.0,380000.0
 Bizerte,Bizerte,Maison,À Vendre,160.0,1.0,2.0,165240.51827043973
 Ariana,Ariana,Maison,À Vendre,116.0,2.0,5.0,401917.4931345978
 Ben Arous,Ben_Arous,Maison,À Vendre,190.0,2.0,4.0,269000.0
-Sousse,Sousse,Maison,À Vendre,60.0,1.0,1.0,70000.0
 Gabès,Gabs,villa,À Vendre,400.0,2.0,7.0,270000.0
 Ben Arous,Ben_Arous,Maison,À Vendre,100.0,1.0,3.0,236471.58127406109
 Gabès,Gabs,Maison,À Vendre,500.0,2.0,6.0,210488.98066860053
@@ -525,7 +510,6 @@ Nabeul,Nabeul,villa,À Vendre,600.0,2.0,3.0,690000.0
 Sfax,Sfax,Maison,À Vendre,240.0,2.0,6.0,280000.0
 Jendouba,Jendouba,villa,À Vendre,600.0,1.0,5.0,575295.9286967604
 Ariana,Ariana,villa,À Vendre,1100.0,3.0,6.0,772480.3963161786
-Ben Arous,Ben_Arous,Maison,À Vendre,1.0,1.0,1.0,160725.88015185957
 Tunis,Tunis,villa,À Vendre,350.0,3.0,4.0,1250000.0
 Nabeul,Nabeul,villa,À Vendre,320.0,2.0,4.0,990000.0
 Nabeul,Nabeul,villa,À Vendre,200.0,3.0,4.0,750000.0
@@ -597,7 +581,6 @@ Nabeul,Nabeul,Maison,À Vendre,460.0,1.0,3.0,384834.8434813251
 Monastir,Monastir,Maison,À Vendre,185.0,2.0,4.0,295000.0
 Nabeul,Nabeul,villa,À Vendre,1200.0,4.0,8.0,906796.410835286
 Ariana,Ariana,villa,À Vendre,1250.0,4.0,5.0,1100000.0
-Tunis,Tunis,villa,À Vendre,1.0,1.0,1.0,560778.167593992
 Ariana,Ariana,villa,À Vendre,170.0,2.0,5.0,734563.9156915231
 Sousse,Sousse,villa,À Vendre,638.0,2.0,7.0,825751.1680553935
 Jendouba,Jendouba,Maison,,189.0,1.0,6.0,250000.0
@@ -607,7 +590,6 @@ Ariana,Ariana,villa,À Vendre,380.0,3.0,3.0,990000.0
 Ben Arous,Ben_Arous,villa,À Vendre,190.0,1.0,4.0,170000.0
 Sousse,Sousse,villa,À Vendre,160.0,1.0,3.0,260000.0
 Ben Arous,Ben_Arous,villa,À Vendre,324.0,3.0,7.0,720550.4942650283
-Sousse,Sousse,Maison,À Vendre,204.0,1.0,1.0,210000.0
 Nabeul,Nabeul,Maison,À Vendre,140.0,1.0,3.0,384808.69757859135
 Sousse,Sousse,villa,À Vendre,1132.0,4.0,6.0,787866.1006320952
 Sousse,Sousse,villa,À Vendre,740.0,5.0,7.0,825674.565996082
@@ -641,7 +623,6 @@ Ben Arous,Ben_Arous,villa,À Vendre,386.0,4.0,6.0,620000.0
 Tunis,Tunis,villa,À Vendre,574.0,3.0,4.0,674374.7794075176
 Tunis,Tunis,villa,À Vendre,150.0,1.0,4.0,674396.7601302674
 Tunis,Tunis,villa,À Vendre,580.0,4.0,3.0,1200000.0
-La Manouba,La_Manouba,villa,À Vendre,0.0,2.0,4.0,563447.7097285178
 Ariana,Ariana,villa,À Vendre,702.0,3.0,9.0,886054.2956999685
 Sousse,Sousse,villa,À Vendre,800.0,4.0,2.0,636363.7497909224
 Bizerte,Bizerte,Maison,À Vendre,220.0,3.0,5.0,278795.21493364545
@@ -707,7 +688,6 @@ Nabeul,Nabeul,villa,À Vendre,240.0,3.0,7.0,868877.4790322494
 Sfax,Sfax,villa,À Vendre,1000.0,1.0,4.0,602662.8368358249
 Ben Arous,Ben_Arous,villa,À Vendre,233.0,1.0,3.0,569124.4586007237
 Sousse,Sousse,Maison,À Vendre,460.0,1.0,4.0,379516.5076327799
-La Manouba,La_Manouba,Maison,À Vendre,65.0,1.0,2.0,75000.0
 Zaghouan,Zaghouan,Maison,À Vendre,212.0,1.0,4.0,213773.18242620784
 Tunis,Tunis,villa,À Vendre,600.0,3.0,6.0,750114.515995658
 Sousse,Sousse,villa,À Vendre,1111.0,4.0,4.0,712126.7725736849
@@ -753,7 +733,6 @@ Nabeul,Nabeul,villa,À Vendre,1000.0,2.0,5.0,793230.2753396346
 Nabeul,Nabeul,Maison,À Vendre,170.0,2.0,4.0,230000.0
 Tunis,Tunis,villa,À Vendre,280.0,3.0,1.0,240000.0
 Le Kef,Le_Kef,villa,À Vendre,1420.0,2.0,3.0,240000.0
-Nabeul,Nabeul,villa,À Vendre,2.0,4.0,7.0,1100000.0
 Ariana,Ariana,villa,À Vendre,217.0,2.0,3.0,270000.0
 Médenine,Mdenine,villa,À Vendre,295.0,2.0,5.0,577016.1004122477
 Médenine,Mdenine,villa,,402.0,2.0,3.0,900000.0
@@ -770,10 +749,8 @@ Ariana,Ariana,villa,À Vendre,200.0,1.0,2.0,330000.0
 Ben Arous,Ben_Arous,villa,À Vendre,460.0,2.0,4.0,606983.4999453111
 Tunis,Tunis,villa,À Vendre,268.0,1.0,4.0,350000.0
 Nabeul,Nabeul,villa,À Vendre,229.0,2.0,4.0,330000.0
-Ben Arous,Ben_Arous,villa,À Vendre,61.0,2.0,3.0,165000.0
 Tunis,Tunis,Maison,À Vendre,189.0,1.0,3.0,130000.0
 Tunis,Tunis,Appartement,À Vendre,90.0,1.0,2.0,120000.0
-Ariana,Ariana,villa,À Vendre,1.0,2.0,5.0,220000.0
 Bizerte,Bizerte,villa,À Vendre,150.0,2.0,2.0,340000.0
 Médenine,Mdenine,villa,À Vendre,360.0,2.0,2.0,430000.0
 Tunis,Tunis,villa,À Vendre,316.0,2.0,10.0,901594.8479960044
@@ -831,7 +808,6 @@ Ben Arous,Ben_Arous,villa,À Vendre,720.0,4.0,8.0,750000.0
 Gabès,Gabs,Maison,À Vendre,360.0,3.0,5.0,459999.0
 Sfax,Sfax,villa,À Vendre,816.0,2.0,6.0,1250000.0
 Ariana,Ariana,villa,À Vendre,370.0,2.0,8.0,999999.0
-Gafsa,Gafsa,villa,À Vendre,0.0,2.0,3.0,352089.91149817395
 Nabeul,Nabeul,villa,À Vendre,1050.0,5.0,7.0,868887.0368046723
 Ben Arous,Ben_Arous,villa,À Vendre,400.0,1.0,3.0,280000.0
 Tunis,Tunis,villa,À Vendre,300.0,2.0,5.0,750000.0
@@ -911,11 +887,9 @@ Monastir,Monastir,Maison,À Vendre,220.0,1.0,7.0,120000.0
 Sousse,Sousse,villa,À Vendre,350.0,2.0,3.0,674252.4122758466
 Tunis,Tunis,Maison,À Vendre,290.0,5.0,10.0,568865.7771397607
 Ariana,Ariana,villa,À Vendre,402.0,2.0,3.0,620000.0
-Monastir,Monastir,Maison,À Vendre,4.0,4.0,8.0,267866.00906676776
 La Manouba,La_Manouba,villa,À Vendre,400.0,2.0,4.0,600000.0
 Ben Arous,Ben_Arous,villa,À Vendre,620.0,3.0,4.0,850000.0
 Sousse,Sousse,Maison,À Vendre,140.0,1.0,3.0,155000.0
-Mahdia,Mahdia,Maison,À Vendre,0.0,1.0,2.0,230900.11424456272
 Médenine,Mdenine,villa,À Vendre,108.0,1.0,3.0,501291.5211887303
 La Manouba,La_Manouba,Maison,À Vendre,80.0,1.0,3.0,170000.0
 Sfax,Sfax,villa,À Vendre,220.0,4.0,3.0,564645.3640153322
@@ -926,10 +900,8 @@ Ben Arous,Ben_Arous,Maison,À Vendre,97.0,1.0,2.0,198602.5300394513
 La Manouba,La_Manouba,Maison,À Vendre,230.0,2.0,6.0,440000.0
 Bizerte,Bizerte,Maison,À Vendre,111.0,1.0,4.0,390000.0
 La Manouba,La_Manouba,Maison,À Vendre,104.0,1.0,2.0,100000.0
-Sousse,Sousse,Maison,À Vendre,69.0,2.0,3.0,150000.0
 Kairouan,Kairouan,Maison,À Vendre,200.0,1.0,2.0,75000.0
 Nabeul,Nabeul,villa,À Vendre,1000.0,5.0,6.0,831014.1453905986
-Mahdia,Mahdia,Maison,À Vendre,1.0,1.0,3.0,150000.0
 Tunis,Tunis,villa,À Vendre,627.0,3.0,7.0,950000.0
 Ariana,Ariana,Maison,À Vendre,507.0,3.0,5.0,599997.0
 Ben Arous,Ben_Arous,Maison,À Vendre,269.0,2.0,5.0,312194.68979054975
@@ -968,7 +940,6 @@ Ben Arous,Ben_Arous,villa,À Vendre,354.0,1.0,4.0,700000.0
 Tunis,Tunis,villa,À Louer,314.0,3.0,4.0,674353.5358615465
 Ariana,Ariana,villa,À Vendre,450.0,2.0,5.0,850000.0
 Tunis,Tunis,Maison,À Vendre,117.0,1.0,3.0,460000.0
-Bizerte,Bizerte,Maison,À Vendre,1.0,1.0,4.0,240965.13925856215
 Médenine,Mdenine,villa,À Vendre,450.0,4.0,3.0,501234.5285564693
 Nabeul,Nabeul,villa,À Vendre,1000.0,3.0,6.0,831070.7694344702
 Nabeul,Nabeul,Maison,sale,189.0,5.0,3.0,600000.0
@@ -1135,10 +1106,8 @@ Sousse,Sousse,villa,À Vendre,380.0,2.0,3.0,674254.8634542278
 Le Kef,Le_Kef,villa,À Vendre,750.0,2.0,4.0,700000.0
 Tunis,Tunis,villa,À Vendre,388.0,1.0,3.0,636547.4000286539
 Sfax,Sfax,villa,À Vendre,400.0,3.0,3.0,360000.0
-Tunis,Tunis,villa,À Vendre,410.0,3.0,3.0,636662.4456472103
 Sfax,Sfax,Maison,À Vendre,406.0,1.0,3.0,180000.0
 Tunis,Tunis,Maison,À Vendre,105.0,1.0,4.0,160000.0
-Ben Arous,Ben_Arous,Maison,À Vendre,1.0,2.0,6.0,350041.59871378186
 Ariana,Ariana,villa,À Vendre,440.0,2.0,4.0,1250000.0
 Tunis,Tunis,villa,À Vendre,160.0,2.0,3.0,480000.0
 Nabeul,Nabeul,villa,À Vendre,640.0,2.0,7.0,868938.4734326024
@@ -1268,7 +1237,6 @@ Ariana,Ariana,villa,À Vendre,500.0,3.0,5.0,1250000.0
 Tunis,Tunis,villa,À Vendre,114.0,1.0,2.0,325000.0
 Ariana,Ariana,Maison,,189.0,1.0,3.0,299999.0
 Ben Arous,Ben_Arous,villa,À Vendre,340.0,2.0,3.0,569104.8891150143
-Ben Arous,Ben_Arous,Maison,À Vendre,171.0,1.0,3.0,220000.0
 La Manouba,La_Manouba,Maison,,189.0,2.0,4.0,230821.14171648087
 Nabeul,Nabeul,villa,À Vendre,134.0,3.0,3.0,150000.0
 Sousse,Sousse,villa,À Vendre,385.0,3.0,6.0,900000.0
@@ -1371,7 +1339,6 @@ Ben Arous,Ben_Arous,villa,À Vendre,494.0,2.0,4.0,606986.2779474766
 Nabeul,Nabeul,Maison,À Vendre,143.0,2.0,3.0,384780.6306744936
 Ben Arous,Ben_Arous,villa,À Vendre,500.0,2.0,6.0,800000.0
 Tunis,Tunis,villa,À Vendre,900.0,2.0,4.0,674429.7275678634
-Ariana,Ariana,villa,À Vendre,9.268,2.0,9.0,886026.0073984903
 Ben Arous,Ben_Arous,Maison,À Vendre,100.0,1.0,1.0,160733.9690405178
 La Manouba,La_Manouba,Maison,À Vendre,189.0,1.0,3.0,330000.0
 La Manouba,La_Manouba,villa,À Vendre,340.0,5.0,8.0,714865.7781514511
